@@ -6,3 +6,4 @@
 |:-----:|:-----:|
 |1| Hello World |
 |2| Github Classsroom|
+|3| 3주차 행 추가|
